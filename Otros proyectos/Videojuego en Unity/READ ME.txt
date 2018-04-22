@@ -1,14 +1,15 @@
 Proyecto final de la asignatura de Desarrollo de Videojuegos desarrollado sin conocimientos previos de Unity.
-
+Este proyecto se encuentra en proceso activo de desarrollo, esta Build es la última versión estable.
 Para llegar al punto en el que se encuentra esta Build del juego se requirieron alrededor de 30 horas de trabajo individual.
+
 En esta versión:
 - Missions sólo sirve para poder luchar contra el primer jefe, sin haberse implementado un nivel previo.
 - Survival es el modo de juego más avanzado.
-- Settings no tiene funcionalidad
+- Settings no tiene funcionalidad.
 
 Controles:
-- Movimiento: WASD o teclas de dirección, ESPACIO para un pequeño teletransporte
-- Apuntar y disparar: Mover el ratón y hacer clic izquierdo (debe ser un ratón físico y no un mousepad)
-- Pausa: Tecla ESC
+- Movimiento: WASD o teclas de dirección, ESPACIO para un pequeño teletransporte.
+- Apuntar y disparar: Mover el ratón y hacer clic izquierdo (debe ser un ratón físico y no un mousepad).
+- Pausa: Tecla ESC.
 
 Todos los assets utilizados son gratuitos y obtenidos mediante el Asset Store de Unity.
